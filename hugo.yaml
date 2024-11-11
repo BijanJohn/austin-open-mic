@@ -12,14 +12,21 @@ minify:
   disableXML: true
   minifyOutput: true
 
+sectionPagesMenu: "main"
+
 params:
+  mainSections:
+    - posts
+  homeLayout: "list"
+  homeInfoParams:
+  title: "Recent Posts"  # Optional title for the homepage
+  content: ""            # Leave empty if you want to skip intro text
   title: "Austin Open Mic"
   description: "Welcome to Austin Open Mic"
   defaultTheme: dark
   disableThemeToggle: true
-
   profileMode:
-    enabled: true
+    enabled: false
     title: "Austin Open Mic"
     subtitle: "Welcome to our space"
     imageUrl: "/images/profile.jpg"

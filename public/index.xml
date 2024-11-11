@@ -10,17 +10,48 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Austin Open Mic List</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>http://localhost:1313/posts/open-mics/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/open-mics/</guid>
       <description>&lt;h2 id=&#34;mondays&#34;&gt;Mondays&lt;/h2&gt;
-&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/Hj9tNA6PRa6HgMKPA&#34;&gt;Art Share&lt;/a&gt; 6:30pm 2336 S Congress Ave.&lt;/p&gt;
-&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/gM15qEmZccX9VhCj6&#34;&gt;Bodhi’s Hideaway&lt;/a&gt; 7pm 10402 Menchaca Rd. Austin Tx 78748&lt;/p&gt;
-&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/LH9x1y4gBhMQqnUMA&#34;&gt;The Buzz Mill&lt;/a&gt; 8pm 1505 Town Creek Dr. Austin, TX 78741&lt;/p&gt;
-&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/MbWozeEiCFA96qbs7&#34;&gt;Freddo&amp;rsquo;s ATX&lt;/a&gt; sign up at 6:30pm 2336 S Congress Ave. Austin, TX 78704&lt;/p&gt;
-&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/585kWakMvxL62sT39&#34;&gt;Whiskey Girls Saloon&lt;/a&gt; 7-10pm 13700 FM973, Bldg A, Manor, TX 78653&lt;/p&gt;
-&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/sMEyukpvkjtvg6xH6&#34;&gt;Speakeasy&lt;/a&gt; signup 8:30 412 Congress Ave. D, Austin, TX 78701&lt;/p&gt;
-&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/af8Rjprq2jboWXkK9&#34;&gt;The Volstead Lounge&lt;/a&gt; signup 7:30 1500 E 6th St, Austin, TX 78702&lt;/p&gt;</description>
+&lt;h3 id=&#34;--art-sharehttpsmapsappgooglhj9tna6pra6hgmkpa-630pm&#34;&gt;•  &lt;a href=&#34;https://maps.app.goo.gl/Hj9tNA6PRa6HgMKPA&#34;&gt;Art Share&lt;/a&gt; 6:30pm&lt;/h3&gt;
+&lt;h4 id=&#34;2336-s-congress-ave&#34;&gt;2336 S Congress Ave.&lt;/h4&gt;
+&lt;h3 id=&#34;-freddos-atxhttpsmapsappgooglmbwozeeicfa96qbs7-sign-up-at-630pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/MbWozeEiCFA96qbs7&#34;&gt;Freddo&amp;rsquo;s ATX&lt;/a&gt; sign up at 6:30pm&lt;/h3&gt;
+&lt;h4 id=&#34;2336-s-congress-ave-austin-tx-78704&#34;&gt;2336 S Congress Ave. Austin, TX 78704&lt;/h4&gt;
+&lt;h3 id=&#34;-bodhis-hideawayhttpsmapsappgooglgm15qemzccx9vhcj6-7pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/gM15qEmZccX9VhCj6&#34;&gt;Bodhi’s Hideaway&lt;/a&gt; 7pm&lt;/h3&gt;
+&lt;h4 id=&#34;10402-menchaca-rd-austin-tx-78748&#34;&gt;10402 Menchaca Rd. Austin Tx 78748&lt;/h4&gt;
+&lt;h3 id=&#34;-the-buzz-millhttpsmapsappgoogllh9x1y4gbhmqqnuma-8pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/LH9x1y4gBhMQqnUMA&#34;&gt;The Buzz Mill&lt;/a&gt; 8pm&lt;/h3&gt;
+&lt;h4 id=&#34;1505-town-creek-dr-austin-tx-78741&#34;&gt;1505 Town Creek Dr. Austin, TX 78741&lt;/h4&gt;
+&lt;h3 id=&#34;-whiskey-girls-saloonhttpsmapsappgoogl585kwakmvxl62st39-7-10pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/585kWakMvxL62sT39&#34;&gt;Whiskey Girls Saloon&lt;/a&gt; 7-10pm&lt;/h3&gt;
+&lt;h4 id=&#34;13700-fm973-bldg-a-manor-tx-78653&#34;&gt;13700 FM973, Bldg A, Manor, TX 78653&lt;/h4&gt;
+&lt;h3 id=&#34;-speakeasyhttpsmapsappgooglsmeyukpvkjtvg6xh6-signup-830&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/sMEyukpvkjtvg6xH6&#34;&gt;Speakeasy&lt;/a&gt; signup 8:30&lt;/h3&gt;
+&lt;h4 id=&#34;412-congress-ave-d-austin-tx-78701&#34;&gt;412 Congress Ave. D, Austin, TX 78701&lt;/h4&gt;
+&lt;h3 id=&#34;-the-volstead-loungehttpsmapsappgooglaf8rjprq2jbowxkk9-signup-730&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/af8Rjprq2jboWXkK9&#34;&gt;The Volstead Lounge&lt;/a&gt; signup 7:30&lt;/h3&gt;
+&lt;h4 id=&#34;1500-e-6th-st-austin-tx-78702&#34;&gt;1500 E 6th St, Austin, TX 78702&lt;/h4&gt;
+&lt;h3 id=&#34;-house-winehttpsmapsappgoogl9swvzhdxcwq2mgywa&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/9sWVzHDxcWQ2MgYWA&#34;&gt;House Wine&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;1711-s-1st-st-austin-tx-78704&#34;&gt;1711 S 1st St, Austin, TX 78704&lt;/h4&gt;
+&lt;h2 id=&#34;tuesdays&#34;&gt;Tuesdays&lt;/h2&gt;
+&lt;h3 id=&#34;-genuine-joe-coffee-shophttpsmapsappgoogl2f3665ivxifzsdmj6-730pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/2f3665iVXiFZsdMJ6&#34;&gt;Genuine Joe Coffee Shop&lt;/a&gt; 7:30pm&lt;/h3&gt;
+&lt;h4 id=&#34;2001-w-anderson-ln-austin-tx-78757&#34;&gt;2001 W Anderson Ln. Austin, TX 78757&lt;/h4&gt;
+&lt;h3 id=&#34;-whiskey-tango-foxtrothttpsmapsappgoogldcnhapuqkemfdmuaa-7-1030pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/DCNHApuQkemfDMuAA&#34;&gt;Whiskey Tango Foxtrot&lt;/a&gt; 7-10:30pm&lt;/h3&gt;
+&lt;h4 id=&#34;701-w-6th-st-austin-tx-78701-seasonal&#34;&gt;701 W. 6th St. Austin, TX 78701 (seasonal)&lt;/h4&gt;
+&lt;h3 id=&#34;-the-water-tankhttpsmapsappgoogltgu34wgsxabx7ht28-8pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/tGu34wgSxABX7HT28&#34;&gt;The Water Tank&lt;/a&gt; 8pm&lt;/h3&gt;
+&lt;h4 id=&#34;7309-mcneil-dr-austin-tx-78729&#34;&gt;7309 McNeil Dr. Austin, TX 78729&lt;/h4&gt;
+&lt;h3 id=&#34;-mozarts-coffee-roastershttpsmapsappgooglageaympq3rpynedj9-700-pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/AgeAympQ3RPYNeDj9&#34;&gt;Mozart&amp;rsquo;s Coffee Roasters&lt;/a&gt; 7:00 pm&lt;/h3&gt;
+&lt;h4 id=&#34;3285-austin-blvd-austin-tx-78703&#34;&gt;3285 Austin blvd, Austin, Tx 78703&lt;/h4&gt;
+&lt;h3 id=&#34;-cactus-cafehttpsmapsappgoogljk96f6f8nyxt315w9-in-texas-union-7-9pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/JK96f6f8nYxt315W9&#34;&gt;Cactus Cafe&lt;/a&gt; in Texas Union 7-9pm&lt;/h3&gt;
+&lt;h4 id=&#34;2247-guadalupe-st-austin-tx-78712&#34;&gt;2247 Guadalupe St, Austin, TX 78712&lt;/h4&gt;
+&lt;h3 id=&#34;-lake-michttpsmapsappgooglazpze87z9d5buzqea--south-1st-st-signup-630pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/azpze87z9d5buzqeA&#34;&gt;Lake Mic&lt;/a&gt; @ South 1st St signup 6:30pm&lt;/h3&gt;
+&lt;h4 id=&#34;1311-s-1st-st-austin-tx-78704&#34;&gt;1311 S 1st St, Austin, TX 78704&lt;/h4&gt;
+&lt;h2 id=&#34;wednesdays&#34;&gt;Wednesdays&lt;/h2&gt;
+&lt;h3 id=&#34;-the-good-lothttpsmapsappgoogl3mxzpmueqxxh5w9pa-sign-up-530&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/3mXZPmueqXXh5w9PA&#34;&gt;The Good Lot&lt;/a&gt; sign up 5:30&lt;/h3&gt;
+&lt;h4 id=&#34;2500-w-new-hope-dr---cedar-park-tx&#34;&gt;2500 W. New Hope Dr. - Cedar Park, Tx&lt;/h4&gt;
+&lt;h3 id=&#34;-poodies-roadhousehttpsmapsappgoogltxhksifp1brcqpxz7-sign-up-745-start-8pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/TxhKSifP1bRCQpXz7&#34;&gt;Poodie’s Roadhouse&lt;/a&gt; sign up 7:45 start 8pm&lt;/h3&gt;
+&lt;h4 id=&#34;22308-spicewood-tx-78669&#34;&gt;22308 Spicewood, TX 78669&lt;/h4&gt;
+&lt;h3 id=&#34;-anderson-mill-pubhttpsmapsappgooglsyhkma2sa8emjhhz6-745pm-if-using-own-amp&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/SyhkmA2SA8eMjHhZ6&#34;&gt;Anderson Mill Pub&lt;/a&gt; 7:45pm (if using own amp)&lt;/h3&gt;
+&lt;h4 id=&#34;10401-anderson-mill-ln--121-austin-tx-78750&#34;&gt;10401 Anderson Mill, Ln. # 121 Austin, TX 78750&lt;/h4&gt;
+&lt;h3 id=&#34;-opahttpsmapsappgooglhr8isyr44xne1r9u7-signup-630&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/Hr8iSyr44XNe1r9U7&#34;&gt;Opa!&lt;/a&gt; signup 6:30&lt;/h3&gt;
+&lt;p&gt;2050 S Lamar Blvd, Austin, TX 78704&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Austin Open Mic</title>
