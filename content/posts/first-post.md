@@ -5,7 +5,7 @@ draft: false
 tags: ["first"]
 ---
 
- Mondays
+## Mondays
 
 • [Art Share](https://maps.app.goo.gl/Hj9tNA6PRa6HgMKPA) 6:30pm 2336 S Congress Ave.
 
@@ -25,7 +25,7 @@ tags: ["first"]
 
 
 
-Tuesdays
+## Tuesdays
 
 • [Genuine Joe Coffee Shop](https://maps.app.goo.gl/2f3665iVXiFZsdMJ6) 7:30pm 2001 W Anderson Ln. Austin, TX 78757
 
@@ -41,7 +41,7 @@ Tuesdays
 
 
 
-Wednesdays
+## Wednesdays
 
 • The Good Lot sign up 5:30? 2500 W. New Hope Dr.
 
@@ -63,7 +63,7 @@ Wednesdays
 
 
 
-Thursdays
+## Thursdays
 
 • Buddy’s Place 7pm 8619 Burnet Rd, Austin, TX 78757 (jam)
 
@@ -77,7 +77,7 @@ Thursdays
 
 
 
-Sundays
+## Sundays
 
 • Industry at 8pm 1211 E 5th St. Ste 150, Austin, TX 78702
 
