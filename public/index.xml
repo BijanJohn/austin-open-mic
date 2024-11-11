@@ -22,5 +22,12 @@
 &lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/sMEyukpvkjtvg6xH6&#34;&gt;Speakeasy&lt;/a&gt; signup 8:30 412 Congress Ave. D, Austin, TX 78701&lt;/p&gt;
 &lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/af8Rjprq2jboWXkK9&#34;&gt;The Volstead Lounge&lt;/a&gt; signup 7:30 1500 E 6th St, Austin, TX 78702&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About Austin Open Mic</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Austin Open Mic</description>
+    </item>
   </channel>
 </rss>
