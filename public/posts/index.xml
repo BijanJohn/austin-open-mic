@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Austin Open Mic</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Austin Open Mic</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austin Open Mic List</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;Mondays&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/Hj9tNA6PRa6HgMKPA&#34;&gt;Art Share&lt;/a&gt; 6:30pm 2336 S Congress Ave.&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/gM15qEmZccX9VhCj6&#34;&gt;Bodhi’s Hideaway&lt;/a&gt; 7pm 10402 Menchaca Rd. Austin Tx 78748&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/LH9x1y4gBhMQqnUMA&#34;&gt;The Buzz Mill&lt;/a&gt; 8pm 1505 Town Creek Dr. Austin, TX 78741&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/MbWozeEiCFA96qbs7&#34;&gt;Freddo&amp;rsquo;s ATX&lt;/a&gt; sign up at 6:30pm 2336 S Congress Ave. Austin, TX 78704&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/585kWakMvxL62sT39&#34;&gt;Whiskey Girls Saloon&lt;/a&gt; 7-10pm 13700 FM973, Bldg A, Manor, TX 78653&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/sMEyukpvkjtvg6xH6&#34;&gt;Speakeasy&lt;/a&gt; signup 8:30 412 Congress Ave. D, Austin, TX 78701&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&#34;https://maps.app.goo.gl/af8Rjprq2jboWXkK9&#34;&gt;The Volstead Lounge&lt;/a&gt; signup 7:30 1500 E 6th St, Austin, TX 78702&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

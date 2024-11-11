@@ -1,0 +1,46 @@
+baseURL: "http://localhost:1313/"
+title: "Austin Open Mic"
+paginate: 5
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  title: "Austin Open Mic"
+  description: "Welcome to Austin Open Mic"
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  profileMode:
+    enabled: true
+    title: "Austin Open Mic"
+    subtitle: "Welcome to our space"
+    imageUrl: "/images/profile.jpg"
+    imageTitle: "our image"
+    buttons:
+      - name: Posts
+        url: posts
+      - name: About
+        url: about
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/yourusername"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
