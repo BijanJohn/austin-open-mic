@@ -98,7 +98,7 @@ tags: ["first"]
 ### • [Three Legged Goat](https://maps.app.goo.gl/1yok2imzxoU784ZZ7) 7-10pm 
 #### 200 E Pecan St # 5, Pflugerville, TX 78660
 
-### [Sunflower Club at Kuya](https://www.eventbrite.com/e/sunflower-club-creative-ceremony-tickets-1049006916927) 7 - 9 pm (2nd Tuesday)
+### [Sunflower Club at Kuya](https://www.eventbrite.com/e/sunflower-club-creative-ceremony-tickets-1049006916927) 7 - 9 pm (2nd Thursday)
 #### 4401 Freidrich Lane #Unit 300, Austin, TX 78744
 
 

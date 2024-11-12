@@ -33,8 +33,6 @@ You can perform poetry at most any open mic in Austin but these listed below hav
 #### 4401 Freidrich Lane #Unit 300, Austin, TX 78744
 
 
-#### 5330 Menchaca Rd, Austin, TX 78745
-
 ## Fridays
 
 ### • [Third Eye Meditation Lounge](https://maps.app.goo.gl/uC5SRiop8XN6k1dTA) 7:30 - 10 PM
