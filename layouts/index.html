@@ -1,0 +1,45 @@
+{{ define "main" }}
+  <div class="profile-section">
+    {{ if .Site.Params.profileMode.enabled }}
+      <!-- Profile mode content -->
+      <h1>{{ .Site.Params.profileMode.title }}</h1>
+      <p>{{ .Site.Params.profileMode.subtitle }}</p>
+      {{ with .Site.Params.profileMode.imageUrl }}
+        <img src="{{ . }}" alt="Profile Image">
+      {{ end }}
+      <!-- Add profile mode buttons if needed -->
+      {{ if .Site.Params.profileMode.buttons }}
+        <div class="profile-buttons">
+          {{ range .Site.Params.profileMode.buttons }}
+            <a href="{{ .url }}" class="button">{{ .name }}</a>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <div class="posts-section">
+    <h2>Recent Posts</h2>
+    {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ range first 5 $pages }}
+      <article>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <time>{{ .Date.Format "January 2, 2006" }}</time>
+        {{ with .Params.summary }}
+          <p>{{ . }}</p>
+        {{ else }}
+          {{ $summary := .Content | plainify | truncate 120 "..." }}
+          <p>{{ $summary }}</p>
+        {{ end }}
+        <a href="{{ .Permalink }}" class="read-more">Read more</a>
+      </article>
+    {{ end }}
+  </div>
+
+  <!-- Optional: Add a link to all posts if you have more than 5 -->
+  {{ if gt (len $pages) 5 }}
+    <div class="all-posts-link">
+      <a href="{{ "/posts" | relURL }}">View all posts</a>
+    </div>
+  {{ end }}
+{{ end }}

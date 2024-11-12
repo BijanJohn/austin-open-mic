@@ -1,5 +1,4 @@
 ---
-title: "About Austin Open Mic"
 url: "/about/"
 summary: "About Austin Open Mic"
 showToc: false

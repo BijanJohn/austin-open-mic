@@ -9,7 +9,7 @@
     <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Austin Open Mic List</title>
+      <title>Music Open Mic List</title>
       <link>http://localhost:1313/posts/open-mics/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/open-mics/</guid>
@@ -54,7 +54,34 @@
 &lt;p&gt;2050 S Lamar Blvd, Austin, TX 78704&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About Austin Open Mic</title>
+      <title>Poetry Open Mic List</title>
+      <link>http://localhost:1313/posts/open-mics-poetry/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/open-mics-poetry/</guid>
+      <description>&lt;p&gt;You can perform poetry at most any open mic in Austin but these listed below have been more inviting for poetry, some poetry only venues also added.&lt;/p&gt;
+&lt;h2 id=&#34;mondays&#34;&gt;Mondays&lt;/h2&gt;
+&lt;h3 id=&#34;-freddos-atxhttpsmapsappgooglmbwozeeicfa96qbs7-sign-up-at-630pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/MbWozeEiCFA96qbs7&#34;&gt;Freddo&amp;rsquo;s ATX&lt;/a&gt; sign up at 6:30pm&lt;/h3&gt;
+&lt;h4 id=&#34;2336-s-congress-ave-austin-tx-78704&#34;&gt;2336 S Congress Ave. Austin, TX 78704&lt;/h4&gt;
+&lt;h2 id=&#34;tuesdays&#34;&gt;Tuesdays&lt;/h2&gt;
+&lt;h3 id=&#34;-mozarts-coffee-roastershttpsmapsappgooglageaympq3rpynedj9-700-pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/AgeAympQ3RPYNeDj9&#34;&gt;Mozart&amp;rsquo;s Coffee Roasters&lt;/a&gt; 7:00 pm&lt;/h3&gt;
+&lt;h4 id=&#34;3285-austin-blvd-austin-tx-78703&#34;&gt;3285 Austin blvd, Austin, Tx 78703&lt;/h4&gt;
+&lt;h2 id=&#34;wednesdays&#34;&gt;Wednesdays&lt;/h2&gt;
+&lt;h3 id=&#34;-opahttpsmapsappgooglhr8isyr44xne1r9u7-signup-630&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/Hr8iSyr44XNe1r9U7&#34;&gt;Opa!&lt;/a&gt; signup 6:30&lt;/h3&gt;
+&lt;p&gt;2050 S Lamar Blvd, Austin, TX 78704&lt;/p&gt;
+&lt;h2 id=&#34;thursdays&#34;&gt;Thursdays&lt;/h2&gt;
+&lt;h3 id=&#34;-nomadic-outposthttpsmapsappgoogl46g5v7yovelu7udf7-signup-at-6pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/46G5v7yoVeLU7UDf7&#34;&gt;Nomadic Outpost&lt;/a&gt; signup at 6pm&lt;/h3&gt;
+&lt;h4 id=&#34;3505-country-white-ln&#34;&gt;3505 Country White Ln&lt;/h4&gt;
+&lt;h3 id=&#34;-lazydaze-live-poetry-writing-workshophttpsmapsappgooglebwhp55rft2sxpzi7-1---3-pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/ebWHp55RfT2sXpzi7&#34;&gt;LazyDaze Live Poetry Writing Workshop&lt;/a&gt; 1 - 3 PM&lt;/h3&gt;
+&lt;h4 id=&#34;5330-menchaca-rd-austin-tx-78745&#34;&gt;5330 Menchaca Rd, Austin, TX 78745&lt;/h4&gt;
+&lt;h2 id=&#34;fridays&#34;&gt;Fridays&lt;/h2&gt;
+&lt;h3 id=&#34;-third-eye-meditation-loungehttpsmapsappgoogluc5sriop8xn6k1dta-730---10-pm&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/uC5SRiop8XN6k1dTA&#34;&gt;Third Eye Meditation Lounge&lt;/a&gt; 7:30 - 10 PM&lt;/h3&gt;
+&lt;h4 id=&#34;casa-de-luz-1701-twoomey&#34;&gt;Casa De Luz, 1701 Twoomey&lt;/h4&gt;
+&lt;h2 id=&#34;sundays&#34;&gt;Sundays&lt;/h2&gt;
+&lt;h3 id=&#34;-spoken--heard-at-kick-butt-coffeehttpsmapsappgoogleew6qqrqj7a4ac1k9-7-10&#34;&gt;• &lt;a href=&#34;https://maps.app.goo.gl/EeW6qqRQJ7A4aC1K9&#34;&gt;Spoken &amp;amp; Heard at Kick Butt Coffee&lt;/a&gt; 7-10&lt;/h3&gt;
+&lt;h4 id=&#34;5775-airport-blvd-suite-725-austin-tx-78752&#34;&gt;5775 Airport Blvd Suite 725, Austin, TX 78752&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>

@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313/"
+baseURL: "http://austinopenmic.com"
 title: "Austin Open Mic"
 paginate: 5
 theme: "PaperMod"
@@ -26,9 +26,8 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
   profileMode:
-    enabled: false
-    title: "Austin Open Mic"
-    subtitle: "Welcome to our space"
+    enabled: true
+    subtitle: "Google Maps links on venue names"
     imageUrl: "/images/profile.jpg"
     imageTitle: "our image"
     buttons:
@@ -39,7 +38,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/yourusername"
+      url: "https://github.com/BijanJohn"
 
 menu:
   main:

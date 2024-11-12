@@ -1,5 +1,5 @@
 ---
-title: "Austin Open Mic List"
+title: "Music Open Mic List"
 date: 2024-11-10
 draft: false
 tags: ["first"]
