@@ -17,7 +17,6 @@ You can perform poetry at most any open mic in Austin but these listed below hav
 ### • [Mozart's Coffee Roasters](https://maps.app.goo.gl/AgeAympQ3RPYNeDj9) 7:00 pm 
 #### 3285 Austin blvd, Austin, Tx 78703
 
-
 ## Wednesdays
 
 ### • [Opa!](https://maps.app.goo.gl/Hr8iSyr44XNe1r9U7) signup 6:30 
@@ -29,6 +28,11 @@ You can perform poetry at most any open mic in Austin but these listed below hav
 #### 3505 Country White Ln
 
 ### • [LazyDaze Live Poetry Writing Workshop](https://maps.app.goo.gl/ebWHp55RfT2sXpzi7) 1 - 3 PM 
+
+### [Sunflower Club at Kuya](https://www.eventbrite.com/e/sunflower-club-creative-ceremony-tickets-1049006916927) 7 - 9 pm (2nd Thursday)
+#### 4401 Freidrich Lane #Unit 300, Austin, TX 78744
+
+
 #### 5330 Menchaca Rd, Austin, TX 78745
 
 ## Fridays
