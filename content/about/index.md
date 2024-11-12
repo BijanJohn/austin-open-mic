@@ -18,5 +18,5 @@ Welcome to Austin, we are happy you are here.
 ## Contact Us
 
 
-- Email: [bijan@bijanrahnamai.com]
-- Instagram: [@bijanthelovepoet]
+- Email: [bijan@bijanrahnamai.com](bijan@bijanrahnamai.com)
+- Instagram: [@bijanthelovepoet](@bijanthelovepoet)
